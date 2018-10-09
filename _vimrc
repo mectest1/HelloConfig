@@ -14,3 +14,5 @@ set smartindent
 "ref https://vi.stackexchange.com/questions/2162/why-doesnt-the-backspace-key-work-in-insert-mode
 set backspace=indent,eol,start
 
+
+set encoding=utf-8
